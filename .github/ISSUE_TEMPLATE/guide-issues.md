@@ -1,20 +1,19 @@
 ---
 name: Guide issues
-about: Only OpenCore and Lilu configurations are supported.
+about: Chỉ các lỗi trong việc thiết lập OpenCore và Lilu configurations ở trong guide được hỗ trợ.
 title: ''
 labels: 'error'
-assignees: ''
-
+assignees: 'Cokaps'
 ---
 
-Please stop and read this carefully. Otherwise your issue will be left **unanswered** and **closed**.
+Vui lòng dừng lại và đọc kỹ điều này. Nếu không, vấn đề của bạn sẽ được để **không được trả lời** và **bị đóng**.
 
-We require the following for guide issues:
+Chúng tôi yêu cầu những điều sau cho các Issue của guide:
 
-* Guide(s) in question
-* Link to page(s) with the issue
-* Clearly explain the issue(s) with the page(s) (if there is a visual issue, a screenshot is required)
-* Include possible fixes
-  * Depending on the complexity of the fix, sources may be required
+* Guide được đề cập
+* Link đến (các) trang có vấn đề
+* Giải thích rõ ràng (các) vấn đề với (các) trang (nếu có vấn đề về hình ảnh, cần có ảnh chụp màn hình)
+* Bao gồm các bản sửa lỗi có thể có
+   * Tùy thuộc vào mức độ phức tạp của việc sửa chữa, có thể yêu cầu cung cấp nguồn nguồn
   
-Note we only maintain Dortania guides, so please do not open issues for other guides.
+<!--Lưu ý rằng chúng tôi chỉ duy trì guide của viOpenCore (dịch của nhóm Dortania), vì vậy vui lòng không mở Issues cho các hướng dẫn khác.-->
